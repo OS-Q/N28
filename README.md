@@ -8,12 +8,5 @@
 
 [Framework N28](https://github.com/OS-Q/N28) 用于支持K210平台运行FreeRTOS
 
-### [关联资源](https://github.com/OS-Q/)
-
- *  [ Platform : K210](https://github.com/OS-Q/H13) 
- *   [Framework N29](https://github.com/OS-Q/N29)
- *   [Framework N27](https://github.com/OS-Q/N27)
- *  [ M7](https://github.com/OS-Q/M7) 
-
 ### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N28)
 ####  2019-9-8

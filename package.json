@@ -1,5 +1,5 @@
 {
-    "name": "framework-K210rtos",
+    "name": "framework-N28",
     "description": "This SDK is for Kendryte K210 with FreeRTOS support.",
     "version": "1.0.0",
     "url": "https://github.com/kendryte/kendryte-freertos-sdk"
