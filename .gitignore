@@ -1,0 +1,7 @@
+*.pyc
+.pio/
+.vscode/
+*.html
+COPYING
+FEATURES
+CHANGELOG
