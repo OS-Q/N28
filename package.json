@@ -1,7 +1,6 @@
 {
-    "name": "framework-N28",
-    "description": "FreeRTOS for Kendryte K210 Core",
-    "system": "*",
-    "url": "https://github.com/OS-Q/N28",
+    "name": "F21",
+    "description": "This SDK is for Kendryte K210 with FreeRTOS support.",
+    "url": "https://github.com/OS-Q/F21",
     "version": "0.7.0"
 }
