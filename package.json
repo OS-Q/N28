@@ -1,6 +1,6 @@
 {
-    "name": "F71",
+    "name": "X71",
     "description": "This SDK is for Kendryte K210 with FreeRTOS support.",
-    "url": "https://github.com/OS-Q/F71",
+    "url": "https://github.com/OS-Q/X71",
     "version": "0.7.0"
 }
